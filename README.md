@@ -37,7 +37,18 @@ Vous pouvez retrouver plus d'information à mon propos sur mon [portoflio](https
 
 ## Mes réalisations
 
-- [Interface pour automates et machine de Turing](https://emerick-biron.github.io/portfolio/pages/realisations.html#atmt-mt)
+- [Interface pour automates et machine de Turing ![]()](https://emerick-biron.github.io/portfolio/pages/realisations.html#atmt-mt)
 - [Mon portfolio](https://emerick-biron.github.io/portfolio/pages/realisations.html#portfolio)
 - [Librairie Java EDT](https://emerick-biron.github.io/portfolio/pages/realisations.html#edt)
 - [Projet "Bang!"](https://emerick-biron.github.io/portfolio/pages/realisations.html#bang)
+
+## Contact
+
+- LinkedIn : [Emerick Biron](https://www.linkedin.com/in/emerick-biron-90630b1b7/)
+- Email : [emerick.biron@gmail.com](mailto:emerick.biron@gmail.com)
+
+## Github stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emerick-biron&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emerick-biron&show_icons=true&theme=radical)
