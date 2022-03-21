@@ -1,7 +1,3 @@
-<style>
-    img[alt=atmt-mt] { height: 10px; }
-</style>
-
 # Bonjour à tous ! 👋
 
 Je m'appelle Emerick Biron j'ai 19 ans et je suis impatient de découvrir des expériences professionnelles.
@@ -41,10 +37,10 @@ Vous pouvez retrouver plus d'information à mon propos sur mon [portoflio](https
 
 ## Mes réalisations
 
-- [![amt-mt](img/atmt-mt-small.png) Interface pour automates et machine de Turing](https://emerick-biron.github.io/portfolio/pages/realisations.html#atmt-mt)
-- [![portfolio](img/favicon.png) Mon portfolio](https://emerick-biron.github.io/portfolio/pages/realisations.html#portfolio)
-- [![devlab](img/devlab.png) Librairie Java EDT](https://emerick-biron.github.io/portfolio/pages/realisations.html#edt)
-- [![gun](img/gun-nav-small.png) Projet "Bang!"](https://emerick-biron.github.io/portfolio/pages/realisations.html#bang)
+- [Interface pour automates et machine de Turing](https://emerick-biron.github.io/portfolio/pages/realisations.html#atmt-mt)
+- [Mon portfolio](https://emerick-biron.github.io/portfolio/pages/realisations.html#portfolio)
+- [Librairie Java EDT](https://emerick-biron.github.io/portfolio/pages/realisations.html#edt)
+- [Projet "Bang!"](https://emerick-biron.github.io/portfolio/pages/realisations.html#bang)
 
 ## Contact
 
