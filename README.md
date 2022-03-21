@@ -37,7 +37,7 @@ Vous pouvez retrouver plus d'information à mon propos sur mon [portoflio](https
 
 ## Mes réalisations
 
-- [Interface pour automates et machine de Turing ![]()](https://emerick-biron.github.io/portfolio/pages/realisations.html#atmt-mt)
+- [Interface pour automates et machine de Turing](https://emerick-biron.github.io/portfolio/pages/realisations.html#atmt-mt)
 - [Mon portfolio](https://emerick-biron.github.io/portfolio/pages/realisations.html#portfolio)
 - [Librairie Java EDT](https://emerick-biron.github.io/portfolio/pages/realisations.html#edt)
 - [Projet "Bang!"](https://emerick-biron.github.io/portfolio/pages/realisations.html#bang)
