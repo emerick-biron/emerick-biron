@@ -35,3 +35,9 @@ Vous pouvez retrouver plus d'information à mon propos sur mon [portoflio](https
 ![](https://img.shields.io/badge/Android%20Studio-informationals?style=flat&logo=androidstudio&color=3DDC84&logoColor=FFF)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-informationals?style=flat&logo=visualstudiocode&color=007ACC&logoColor=FFF)
 
+## Mes réalisations
+
+- [Interface pour automates et machine de Turing](https://emerick-biron.github.io/portfolio/pages/realisations.html#atmt-mt)
+- [Mon portfolio](https://emerick-biron.github.io/portfolio/pages/realisations.html#portfolio)
+- [Librairie Java EDT](https://emerick-biron.github.io/portfolio/pages/realisations.html#edt)
+- [Projet "Bang!"](https://emerick-biron.github.io/portfolio/pages/realisations.html#bang)
