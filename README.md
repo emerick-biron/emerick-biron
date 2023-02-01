@@ -4,8 +4,6 @@ Je m'appelle Emerick Biron j'ai 19 ans et je suis impatient de découvrir des ex
 Dynamique, sérieux, ponctuel et motivé, je suis passionné par l'informatique depuis tout petit. Je me suis dirigé rapidement vers le DUT informatique de Montpellier pour réaliser mes études.
 Investi dans ma formation, j'ai jusqu'alors acquis de nombreuses bases solides en programmation que j'ai consolidée en les appliquant lors de projets personnels.
 
-Vous pouvez retrouver plus d'information à mon propos sur mon [portoflio](https://emerick-biron.github.io/portfolio/).
-
 ## Technologies & outils
 
 ![](https://img.shields.io/badge/Debian-informationals?style=flat&logo=Debian&color=A81D33&logoColor=FFF)
@@ -38,7 +36,6 @@ Vous pouvez retrouver plus d'information à mon propos sur mon [portoflio](https
 ## Mes réalisations
 
 - [Interface pour automates et machine de Turing](https://emerick-biron.github.io/portfolio/pages/realisations.html#atmt-mt)
-- [Mon portfolio](https://emerick-biron.github.io/portfolio/pages/realisations.html#portfolio)
 - [Librairie Java EDT](https://emerick-biron.github.io/portfolio/pages/realisations.html#edt)
 - [Projet "Bang!"](https://emerick-biron.github.io/portfolio/pages/realisations.html#bang)
 
