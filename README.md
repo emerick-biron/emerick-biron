@@ -1,9 +1,5 @@
 # Bonjour à tous ! 👋
 
-Je m'appelle Emerick Biron j'ai 19 ans et je suis impatient de découvrir des expériences professionnelles.
-Dynamique, sérieux, ponctuel et motivé, je suis passionné par l'informatique depuis tout petit. Je me suis dirigé rapidement vers le DUT informatique de Montpellier pour réaliser mes études.
-Investi dans ma formation, j'ai jusqu'alors acquis de nombreuses bases solides en programmation que j'ai consolidée en les appliquant lors de projets personnels.
-
 ## Technologies & outils
 
 ![](https://img.shields.io/badge/Debian-informationals?style=flat&logo=Debian&color=A81D33&logoColor=FFF)
