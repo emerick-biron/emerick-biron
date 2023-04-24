@@ -31,9 +31,7 @@
 
 ## Mes réalisations
 
-- [Interface pour automates et machine de Turing](https://emerick-biron.github.io/portfolio/pages/realisations.html#atmt-mt)
-- [Librairie Java EDT](https://emerick-biron.github.io/portfolio/pages/realisations.html#edt)
-- [Projet "Bang!"](https://emerick-biron.github.io/portfolio/pages/realisations.html#bang)
+- [ElegantMOTD](https://github.com/emerick-biron/elegantmotd)
 
 ## Contact
 
