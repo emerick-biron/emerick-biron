@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Ubuntu-informationals?style=flat&logo=Ubuntu&color=E95420&logoColor=FFF)
 ![](https://img.shields.io/badge/Windows-informationals?style=flat&logo=windows&color=0078D6&logoColor=FFF)
 
-![](https://img.shields.io/badge/Java-informationals?style=flat&logo=java&color=007396&logoColor=FFF)
+![](https://img.shields.io/badge/Java-informationals?style=flat&logo=openjdk&color=007396&logoColor=FFF)
 ![](https://img.shields.io/badge/Python-informationals?style=flat&logo=python&color=3776AB&logoColor=FFF)
 ![](https://img.shields.io/badge/HTML5-informationals?style=flat&logo=html5&color=E34F26&logoColor=FFF)
 ![](https://img.shields.io/badge/CSS3-informationals?style=flat&logo=css3&color=1572B6&logoColor=FFF)
