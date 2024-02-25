@@ -120,7 +120,7 @@ Below is a curated list of programming languages, tools, and technologies that I
 ## My Projects
 
 - [ElegantMOTD](https://github.com/emerick-biron/elegantmotd) - A sleek and modern Message of the Day generator for servers.
-- [719](https://github.com/emerick-biron/elegantmotd) - A browser-based game with microservices. Built with React and Spring Boot
+- [719](https://github.com/emerick-biron/719) - A browser-based game with microservices. Built with React and Spring Boot
 
 ## GitHub Statistics
 
